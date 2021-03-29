@@ -11,3 +11,5 @@ elif country == 'USA':
 		print('apply license')
 	else:
 		print('no')
+else:
+	print('Bye')
