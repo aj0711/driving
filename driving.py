@@ -6,3 +6,8 @@ if country == 'TW':
 		print('apply license')
 	else:
 		print('no')
+elif country == 'USA':
+	if age >= 16:
+		print('apply license')
+	else:
+		print('no')
